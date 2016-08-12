@@ -1,0 +1,1 @@
+{"version":3,"file":"paeckchen.js","sources":["index.ts"],"sourcesContent":["// import { test } from './file1';\nlet test: string = \"hello console\";\nconsole.log(test);\n"],"names":["console","log","test"],"mappings":";;;;;;;;;QACA,IAAIE,IAAA,GAAe,eAAnB;QACAF,OAAA,CAAQC,GAAR,CAAYC,IAAZ"}
