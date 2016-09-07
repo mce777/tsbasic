@@ -1,8 +1,8 @@
 ##A simple TypeScript starter project
-TypeScript is a dependency (see package.json) and not installed globally. Therefore, a module bundler is required. 
+TypeScript is a dependency (see package.json) and not installed globally. Therefore, a module bundler is required, like Webpack or this one here: https://github.com/paeckchen/paeckchen
 
-From the command line, run:
+With that configured, run this from the command line:
 
 **npm run build**
 
-######Info on the module bundler used: https://github.com/paeckchen/paeckchen
+
