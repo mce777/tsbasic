@@ -1,4 +1,4 @@
-###A simple TypeScript starter project
+##A simple TypeScript starter project
 TypeScript is a dependency (see package.json) and not installed globally. Therefore, a module bundler is required. 
 
 From the command line, run:
