@@ -1,6 +1,7 @@
-A simple TypeScript starter project, where TypeScript is a dependency (see package.json) and not installed globally.
+###A simple TypeScript starter project
+TypeScript is a dependency (see package.json) and not installed globally.
 
-From the command line, simply run:
+From the command line, run:
 
 **npm run build**
 
