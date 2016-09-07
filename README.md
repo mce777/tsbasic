@@ -5,4 +5,4 @@ From the command line, run:
 
 **npm run build**
 
-######Info on the module bundler: https://github.com/paeckchen/paeckchen
+######Info on the module bundler used: https://github.com/paeckchen/paeckchen
