@@ -1,3 +1,3 @@
 A simple TypeScript starter project. 
 
-TypeScript is a dependency. 
+TypeScript is a dependency (see package.json). 
