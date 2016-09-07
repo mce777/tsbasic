@@ -1,3 +1,5 @@
-// import { test } from './file1';
-let test: string = "hello console";
+import { testnum } from './file1';
+let test: string = "hi there, console";
+
 console.log(test);
+console.log(testnum);
