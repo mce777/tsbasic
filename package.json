@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prebuild": "rm -fr ./dist/* && mkdir -p ./dist",
     "build": "tsc ./index.ts --outDir ./dist --sourceMap",
     "postbuild": "paeckchen -e ./dist/index.js -f ./dist/index.js --sourceMap"
